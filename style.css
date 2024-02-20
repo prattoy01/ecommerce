@@ -366,7 +366,7 @@ body {
   justify-content: center;
   align-items: flex-start;
 
-  background-image: url(img/banner/b17.jpg);
+  background-image: url(img/banner/banner1.jpg);
   min-width: 780px;
   height: 50vh;
   background-size: cover;
@@ -375,7 +375,7 @@ body {
 }
 
 #sm-banner .banner-box2 {
-  background-image: url(img/banner/b10.jpg);
+  background-image: url(img/banner/ban2.jpg);
 }
 
 #sm-banner h4 {
@@ -418,7 +418,7 @@ body {
   justify-content: center;
   align-items: flex-start;
 
-  background-image: url(img/banner/b7.jpg);
+  background-image: url(img/banner/ban3.jpg);
   min-width: 30%;
   height: 30vh;
   background-size: cover;
@@ -440,11 +440,11 @@ body {
 }
 
 #banner3 .box2 {
-  background-image: url(img/banner/b4.jpg);
+  background-image: url(img/banner/ban4.jpg);
 }
 
 #banner3 .box3 {
-  background-image: url(img/banner/b18.jpg);
+  background-image: url(img/banner/ban5.jpg);
 }
 
 #newsletter {
